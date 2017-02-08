@@ -1,0 +1,6 @@
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\bin\Debug\EvenTree.exe.config
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\bin\Debug\EvenTree.exe
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\bin\Debug\EvenTree.pdb
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\obj\Debug\EvenTree.csprojResolveAssemblyReference.cache
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\obj\Debug\EvenTree.exe
+c:\users\texas\documents\visual studio 2015\Projects\EvenTree\EvenTree\obj\Debug\EvenTree.pdb
